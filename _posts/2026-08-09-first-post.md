@@ -5,4 +5,4 @@ tags:
 - Blog
 ---
 
-this is the first post
+this is the first post, it should have 1 tag now.
